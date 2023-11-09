@@ -1,0 +1,88 @@
+* {
+  font-family: 'Ysabeau SC', sans-serif;
+  color: white;
+}
+
+body {
+  background-color: #fff5e3;
+}
+
+button {
+  font-size: 50px;
+  border-radius: 1rem;
+  background-color: rgb(244, 240, 240);
+  text-align: center;
+}
+
+h1 {
+  padding-top: 30px;
+  font-size: 45px;
+  font-family: 'Neucha', cursive;
+  margin-bottom: 5px;
+}
+
+h2 {
+  padding-top: 0px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 15px;
+  font-family: 'Neucha', cursive;
+  font-size: 30px;
+  margin-top: 5px;
+
+}
+
+.wrapper {
+  position: relative;
+  height: 525px;
+  width: 360px;
+  margin: 100px auto;
+  background-color: #2c333f;
+  border-radius: 2rem;
+  box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.5);
+}
+
+.heading {
+  text-align: center;
+}
+
+.clickButton1 {
+  text-align: center;
+  height: 65px;
+  padding: 25px 20px;
+  margin-bottom: 10px;
+}
+
+.clickButton1 button {
+  margin-right: 10px;
+}
+.clickButton2 {
+  text-align: center;
+  height: 180px;
+/*   padding-top: 40px;
+  padding-bottom: 30px; */
+  margin-top: 10px;
+}
+.clickButton2 button{
+  margin-top: 30px;
+}
+
+#vs{
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Chakra Petch', sans-serif;
+}
+#result{
+  text-align: center;
+  font-size: 25px;
+  font-family: 'Bungee Spice', cursive;
+}
+.credits{
+  text-align: center;
+  font-size: 15px;
+}
+
+#developer{
+  font-family: 'Martel', serif;
+  padding-bottom: 5px;
+}
